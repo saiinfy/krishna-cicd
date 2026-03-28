@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, krishna123</p>"
+    return "<p>New Update</p>"
 
 if __name__ == '__main__':
     # Run the app on a specific port, for example, 8000
